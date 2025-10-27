@@ -1,2 +1,2 @@
-inicio do cadastro de login
-fim do login
+inicialização do cadastro de login
+finalização do login
